@@ -25,11 +25,11 @@
 4. SQL 문제 2문제
    - 프로그래머스 min/max 2문제
 
-## 정원영
+## <a href= "https://github.com/nicednjsdud">정원영</a>
 
 ### 1) 면접 준비
 
-<a href=""></a>
+<a href="">x</a>
 
 ### 2) 책
 
@@ -43,7 +43,7 @@
 
 2. 자료구조 연습문제
 
-<a href="https://nicednjsdud.github.io/algorithm/Algorithm-BackJoon-BackJoon_10808/">ackJoon Algorithm 10808 알파벳 개수 (Java)</a>
+<a href="https://nicednjsdud.github.io/algorithm/Algorithm-BackJoon-BackJoon_10808/">BackJoon Algorithm 10808 알파벳 개수 (Java)</a>
 
 <a href="">x</a>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 곽수경
+## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
 
 ### 1) 면접 준비
 
