@@ -1,4 +1,4 @@
-# Banwol-study
+# Banwol-study 🔥
 
 ## 공부방법 ( v.1 )
 
@@ -81,3 +81,8 @@
 <a href="">x</a>
 
 ---
+
+## 할것
+
+- 공부 방법 update
+- read me update
