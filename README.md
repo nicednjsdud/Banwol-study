@@ -2,8 +2,8 @@
 
 ## 공부방법 ( v.1 )
 
-- 각 주마다 노션 혹은 blog의 주제에 관한 내용을 포스팅한다.
-- 포스팅 한 blog url를 해당 주차에 등록한다.
+- 각 주마다 노션 혹은 Blog의 주제에 관한 내용을 포스팅한다.
+- 포스팅 한 Blog url를 해당 주차에 등록한다.
 
 ## 2월
 
@@ -45,12 +45,12 @@
 
 <a href="https://nicednjsdud.github.io/algorithm/Algorithm-BackJoon-BackJoon_10808/">BackJoon Algorithm 10808 알파벳 개수 (Java)</a>
 
-<a href="">x</a>
+<a href="https://nicednjsdud.github.io/algorithm/Algorithm-BackJoon-BackJoon_5648/">BackJoon Algorithm 역원소 정렬 5648 (Java)</a>
 
 3. SQL 문제
 
-<a href="">x</a>
-<a href="">x</a>
+- V
+- V
 
 ---
 
