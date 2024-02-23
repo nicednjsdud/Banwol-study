@@ -68,7 +68,7 @@
 
 1. 자료구조 정리
 
-<a href="">x</a>
+<a href="https://velog.io/@sukk/%EB%B0%94%ED%82%B9%EB%8F%85%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-0x03-%EB%B0%B0%EC%97%B4">[바킹독의 실전 알고리즘] 0x03 - 배열</a>
 
 2. 자료구조 연습문제
 
@@ -76,11 +76,7 @@
 <a href="">x</a>
 
 3. SQL 문제
-
-<a href="">x</a>
-<a href="">x</a>
-
----
+- 6문제
 
 ## 할것
 
