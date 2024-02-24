@@ -57,9 +57,7 @@
 
 ## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
 
-### 1) 면접 준비
-
-<a href="">x</a>
+### 1) 면접 준비(자료구조 정리와 같음)
 
 ### 2) 책
 
@@ -69,24 +67,22 @@
 
 1. 자료구조 정리
 
-<a href="">x</a>
+- <a href="https://velog.io/@sukk/%EB%B0%B0%EC%97%B4">[자료구조] 1. 배열</a>
+
+- <a href="https://velog.io/@sukk/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9D">[자료구조] 2. 스택</a>
 
 2. 자료구조 연습문제
 
-<a href="">x</a>
-<a href="">x</a>
+- <a href="https://velog.io/@sukk/%EB%B0%B1%EC%A4%80-10808.-%EC%95%8C%ED%8C%8C%EB%B2%B3-%EA%B0%9C%EC%88%98-Java">[백준] 10808. 알파벳 개수 (Java)</a>
+
+- <a href="https://velog.io/@sukk/%EB%B0%B1%EC%A4%80-10828.-%EC%8A%A4%ED%83%9D-Java">[백준] 10828. 스택 (Java)
+  </a>
 
 3. SQL 문제
 
-<a href="">x</a>
-<a href="">x</a>
+- 6문제
 
 ---
-
-## 할것
-
-- 공부 방법 update
-- read me update
 
 ### 4주차 ( 2024-02-24 ~ 2024-03-02 )
 
@@ -105,3 +101,9 @@
    - 스택
    - 연습문제 2문제
    - 출처 <a href="https://www.youtube.com/watch?v=mBeyFsHqzHg">[바킹독의 실전 알고리즘] 0x03강 - 배열</a>
+
+## 할것
+
+- 공부 방법 update
+- read me update
+- 수경님이 read me 수정
