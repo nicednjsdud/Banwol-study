@@ -29,7 +29,7 @@
 
 ### 1) 면접 준비
 
-<a href="">x</a>
+<a href="https://nicednjsdud.github.io/etc/etc-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01/">(자료구조) 면접 준비 - 1</a>
 
 ### 2) 책
 
