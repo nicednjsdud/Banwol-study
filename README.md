@@ -58,8 +58,8 @@
 
 ### 1) 면접 준비(자료구조 정리와 같음)
 
-<a href="https://velog.io/@sukk/%EB%B0%B0%EC%97%B4">[자료구조] 1. 배열</a>
-<a href="https://velog.io/@sukk/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9D">[자료구조] 2. 스택</a>
+- <a href="https://velog.io/@sukk/%EB%B0%B0%EC%97%B4">[자료구조] 1. 배열</a>
+- <a href="https://velog.io/@sukk/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9D">[자료구조] 2. 스택</a>
 ### 2) 책
 
 - x
@@ -68,13 +68,15 @@
 
 1. 자료구조 정리
 
-<a href="https://velog.io/@sukk/%EB%B0%B0%EC%97%B4">[자료구조] 1. 배열</a>
-<a href="https://velog.io/@sukk/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9D">[자료구조] 2. 스택</a>
+- <a href="https://velog.io/@sukk/%EB%B0%B0%EC%97%B4">[자료구조] 1. 배열</a>
+
+- <a href="https://velog.io/@sukk/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9D">[자료구조] 2. 스택</a>
 
 2. 자료구조 연습문제
 
-<a href="https://velog.io/@sukk/%EB%B0%B1%EC%A4%80-10808.-%EC%95%8C%ED%8C%8C%EB%B2%B3-%EA%B0%9C%EC%88%98-Java">[백준] 10808. 알파벳 개수 (Java)</a>
-<a href="https://velog.io/@sukk/%EB%B0%B1%EC%A4%80-10828.-%EC%8A%A4%ED%83%9D-Java">[백준] 10828. 스택 (Java)
+- <a href="https://velog.io/@sukk/%EB%B0%B1%EC%A4%80-10808.-%EC%95%8C%ED%8C%8C%EB%B2%B3-%EA%B0%9C%EC%88%98-Java">[백준] 10808. 알파벳 개수 (Java)</a>
+
+- <a href="https://velog.io/@sukk/%EB%B0%B1%EC%A4%80-10828.-%EC%8A%A4%ED%83%9D-Java">[백준] 10828. 스택 (Java)
 </a>
 
 3. SQL 문제
