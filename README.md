@@ -118,11 +118,7 @@
 
 <a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/">(알고리즘) 바킹독의 실전 알고리즘 0x04강 ( 연결리스트 )</a>
 
-2. 자료구조 연습문제
-
-<a href="https://nicednjsdud.github.io/algorithm/Algorithm-BackJoon-BackJoon_1406/">BackJoon Algorithm 1406 에디터 (Java)</a>
-
----
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EC%8A%A4%ED%83%9D/">(알고리즘) 바킹독의 실전 알고리즘 0x05강 ( 스택 )</a>
 
 ## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
 
@@ -137,6 +133,54 @@
 1. 자료구조 정리
 
 2. 자료구조 연습문제
+
+---
+
+### 4주차 ( 2024-03-01 ~ 2024-03-08 )
+
+1. 면접 준비
+   - 신입 개발자 기술면접 질문 정리 - 자료구조 (3개)
+   - 출처 <a href="https://dev-coco.tistory.com/159">슬기로운 개발생활<a>
+2. 책
+
+   - 객체지향의 사실과 오해
+   - 05 / 협력하는 객체들의 공동체
+   - 06 / 이상한 나라의 객체
+   - 07 / 이상한 나라의 객체
+
+3. 코테 공부 (알고리즘)
+
+   - 큐
+   - 덱
+   - 연습문제 2문제
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+### 1) 면접 준비
+
+- x
+
+### 2) 책
+
+- V
+
+### 3) 코테 공부
+
+1. 자료구조 정리
+
+---
+
+## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
+
+### 1) 면접 준비(자료구조 정리와 같음)
+
+### 2) 책
+
+- x
+
+### 3) 코테 공부
+
+1. 자료구조 정리
 
 ---
 
