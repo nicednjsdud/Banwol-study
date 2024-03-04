@@ -174,6 +174,7 @@
 1.  자료구조 정리
 
 <a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%ED%81%90/">(알고리즘) 바킹독의 실전 알고리즘 0x06강 ( 큐 )</a>
+
 <a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EB%8D%B1/">(알고리즘) 바킹독의 실전 알고리즘 0x07강 ( 덱 )</a>
 
 ---
@@ -184,7 +185,7 @@
 
 ### 2) 책
 
-- x
+- V
 
 ### 3) 코테 공부
 
