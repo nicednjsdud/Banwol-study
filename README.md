@@ -193,6 +193,50 @@
 
 ---
 
+</details>
+<details>
+   <summary>2주차 ( 2024-03-09 ~ 2024-03-15 )</summary>
+   
+   1. 면접 준비
+      - 신입 개발자 기술면접 질문 정리 - 자료구조 (3개)
+      - 출처 <a href="https://dev-coco.tistory.com/159">슬기로운 개발생활<a>
+   2. 책
+      - effective java
+   3. 코테 공부 (알고리즘)
+      - 스택의 활용(수식의 괄호 쌍)
+      - BFS
+      - 연습문제 2문제
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+### 1) 면접 준비
+
+- x
+
+### 2) 책
+
+- X
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+---
+
+## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
+
+### 1) 면접 준비(자료구조 정리와 같음)
+
+### 2) 책
+
+- V
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+---
+
    </details>
 
 ## 할것
