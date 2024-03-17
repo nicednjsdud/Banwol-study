@@ -211,7 +211,7 @@
 
 ### 1) 면접 준비
 
-- x
+<a href="https://nicednjsdud.github.io/etc/etc-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01-4/">(자료구조) 면접 준비 - 4</a>
 
 ### 2) 책
 
