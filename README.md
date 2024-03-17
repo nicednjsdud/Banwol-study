@@ -109,7 +109,7 @@
 
 ### 1) 면접 준비
 
-- x
+<a href="https://nicednjsdud.github.io/etc/etc-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01-2/">(자료구조) 면접 준비 - 2</a>
 
 ### 2) 책
 
@@ -163,7 +163,7 @@
 
 ### 1) 면접 준비
 
-- x
+<a href="https://nicednjsdud.github.io/etc/etc-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B01-3/">(자료구조) 면접 준비 - 3</a>
 
 ### 2) 책
 
@@ -220,6 +220,11 @@
 ### 3) 코테 공부
 
 1.  자료구조 정리
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EC%8A%A4%ED%83%9D%EC%9D%98-%ED%99%9C%EC%9A%A9/">(알고리즘) 바킹독의 실전 알고리즘 0x08강 ( 스택의 활용 )</a>
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-BFS/">(알고리즘) 바킹독의 실전 알고리즘 0x09강 ( BFS )
+</a>
 
 ---
 
