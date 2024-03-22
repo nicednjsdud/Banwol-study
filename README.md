@@ -231,19 +231,62 @@
 ## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
 
 ### 1) 면접 준비(자료구조 정리와 같음)
+
 - <a href="https://velog.io/@sukk/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-5.-%EB%8D%B1">[바킹독 실전 알고리즘] 5. 덱</a>
 - <a href="https://velog.io/@sukk/%EB%B0%94%ED%82%B9%EB%8F%85-8.-%EC%88%98%EC%8B%9D%EC%9D%98-%EA%B4%84%ED%98%B8-%EC%8C%8D-%EC%8A%A4%ED%83%9D-%ED%99%9C%EC%9A%A9">[바킹독의 실전 알고리즘] 6. 수식의 괄호 쌍 (스택 활용)</a>
 - <a href="https://velog.io/@sukk/%EB%B0%94%ED%82%B9%EB%8F%85%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-7.-BFS">[바킹독의 실전 알고리즘] 7. BFS</a>
 - <a href="https://velog.io/@sukk/%EC%89%AC%EC%9A%B4%EC%BD%94%EB%93%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-Map%EA%B3%BC-Hash-Table">[쉬운코드 - 데이터 구조] Map과 Hash Table</a>
+
 ### 2) 책
 
 ### 3) 코테 공부
 
 1.  자료구조 정리
+
 ---
 
-   </details>
+</details>
 
+<details>
+   <summary>3주차 ( 2024-03-16 ~ 2024-03-23 )</summary>
+   
+   1. 면접 준비
+      - 신입 개발자 기술면접 질문 정리 - 알고리즘 (3개)
+      - 출처 <a href="https://dev-coco.tistory.com/159">슬기로운 개발생활<a>
+   2. 책
+      - effective java
+   3. 코테 공부 (알고리즘)
+      - DFS
+      - 재귀
+      - 연습문제 2문제
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+### 1) 면접 준비
+
+### 2) 책
+
+- X
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+---
+
+## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
+
+### 1) 면접 준비(자료구조 정리와 같음)
+
+### 2) 책
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+---
+
+</details>
 
 ## 할것
 
