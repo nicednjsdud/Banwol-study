@@ -272,6 +272,11 @@
 
 1.  자료구조 정리
 
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-DFS/">(알고리즘) 바킹독의 실전 알고리즘 0x0A강 ( DFS )</a>
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EC%9E%AC%EA%B7%80/">(알고리즘) 바킹독의 실전 알고리즘 0x0B강 ( 재귀 )
+</a>
+
 ---
 
 ## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
