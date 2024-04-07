@@ -293,6 +293,98 @@
 
 </details>
 
+<details>
+   <summary>4주차 ( 2024-03-24 ~ 2024-03-31 )</summary>
+   
+   1. 면접 준비
+      - 신입 개발자 기술면접 질문 정리 - 알고리즘 (3개)
+      - 출처 <a href="https://dev-coco.tistory.com/159">슬기로운 개발생활<a>
+   2. 책
+      - effective java
+   3. 코테 공부 (알고리즘)
+      - 백트래킹
+      - 시뮬레이션
+      - 연습문제 2문제
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+### 1) 면접 준비
+
+### 2) 책
+
+- X
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EB%B0%B1%ED%8A%B8%EB%A0%88%ED%82%B9/">(알고리즘) 바킹독의 실전 알고리즘 0x0C강 ( 백트래킹 )</a>
+
+<a href=""> 시뮬레이션 </a>
+
+---
+
+## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
+
+### 1) 면접 준비(자료구조 정리와 같음)
+
+### 2) 책
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+---
+
+</details>
+
+## 4월
+
+<details>
+   <summary>1주차 ( 2024-04-01 ~ 2024-04-07 )</summary>
+   
+   1. 면접 준비
+      - 신입 개발자 기술면접 질문 정리 - 알고리즘 (3개)
+      - 출처 <a href="https://dev-coco.tistory.com/159">슬기로운 개발생활<a>
+   2. 책
+      - effective java
+   3. 코테 공부 (알고리즘)
+      - 정렬 I
+      - 정렬 II
+      - 연습문제 2문제
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+### 1) 면접 준비
+
+### 2) 책
+
+- X
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EC%A0%95%EB%A0%AC-I/">(알고리즘) 바킹독의 실전 알고리즘 0x0E강 ( 정렬 I )</a>
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%EC%A0%95%EB%A0%AC-II/">(알고리즘) 바킹독의 실전 알고리즘 0x0F강 ( 정렬 II )</a>
+
+---
+
+## <a href="https://github.com/Sukyeong-Kwak">곽수경</a>
+
+### 1) 면접 준비(자료구조 정리와 같음)
+
+### 2) 책
+
+### 3) 코테 공부
+
+1.  자료구조 정리
+
+---
+
+</details>
+
 ## 할것
 
 - 공부 방법 update
