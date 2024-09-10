@@ -4,7 +4,7 @@
 
 - 각 주마다 노션 혹은 Blog의 주제에 관한 내용을 포스팅한다.
 - 포스팅 한 Blog url를 해당 주차에 등록한다.
-- 안한것 한개당 -1000원
+- **계속 해서 공부한것들 업데이트를 한다.**
 
 ## 2월
 
@@ -385,7 +385,39 @@
 
 </details>
 
+## 9월
+
+<details>
+   <summary>1주차 ( 2024-09-07 ~ 2024-09-14 )</summary>
+   
+   1. 코테 공부 (알고리즘)
+      - 투 포인터
+      - 연습문제 2문제
+   2. 코틀린 공부 
+      - 코루틴
+      - 코틀린 언어
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+- X
+
+### 1) 코테 공부
+
+1.  자료구조 정리
+
+<a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0/">(알고리즘) 바킹독의 실전 알고리즘 Ox14강 ( 투 포인터 )</a>
+
+### 2) 코틀린 공부
+
+<a href="https://nicednjsdud.github.io/kotlin/Kotlin-Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/">(Kotlin-Coroutine) 코루틴 이해하기 (1)</a>
+<a href="https://nicednjsdud.github.io/kotlin/Kotlin-Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2/">(Kotlin-Coroutine) 코루틴 이해하기 (2)</a>
+
+---
+
+</details>
+
 ## 할것
 
 - 공부 방법 update
 - ~~수경님이 read me 수정~~
+- **다시 시작 9월**
