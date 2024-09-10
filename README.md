@@ -410,6 +410,7 @@
 ### 2) 코틀린 공부
 
 <a href="https://nicednjsdud.github.io/kotlin/Kotlin-Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/">(Kotlin-Coroutine) 코루틴 이해하기 (1)</a>
+
 <a href="https://nicednjsdud.github.io/kotlin/Kotlin-Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2/">(Kotlin-Coroutine) 코루틴 이해하기 (2)</a>
 
 ---
