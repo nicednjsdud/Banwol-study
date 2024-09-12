@@ -389,8 +389,6 @@
 
 <details>
    <summary>1주차 ( 2024-09-07 ~ 2024-09-14 )</summary>
-   
-
 
 ## <a href= "https://github.com/nicednjsdud">정원영</a>
 
@@ -402,10 +400,10 @@
 2. 코틀린 공부
    - 코루틴
    - 코틀린 언어
+3. Docker
+   - 코틀린 부트 Docker 빌드 및 이미지 화
 
 ### 1) 코테 공부
-
-1.  자료구조 정리
 
 <a href="https://nicednjsdud.github.io/computer%20science/computer-science-Data-Structure-%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0/">(알고리즘) 바킹독의 실전 알고리즘 Ox14강 ( 투 포인터 )</a>
 
@@ -415,7 +413,9 @@
 
 <a href="https://nicednjsdud.github.io/kotlin/Kotlin-Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2/">(Kotlin-Coroutine) 코루틴 이해하기 (2)</a>
 
----
+### 3) Docker
+
+<a href="https://nicednjsdud.github.io/docker/Docker-Docker-Kotlin-Boot-Docker-build/">(Docker) Docker로 Kotlin Spring 프로젝트 빌드 및 이미지화</a>
 
 </details>
 
