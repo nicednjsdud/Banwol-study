@@ -420,7 +420,7 @@
 </details>
 
 <details>
-   <summary>1주차 ( 2024-09-15 ~ 2024-09-22 )</summary>
+   <summary>2주차 ( 2024-09-15 ~ 2024-09-22 )</summary>
 
 ## <a href= "https://github.com/nicednjsdud">정원영</a>
 
