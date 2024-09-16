@@ -419,6 +419,15 @@
 
 </details>
 
+<details>
+   <summary>1주차 ( 2024-09-15 ~ 2024-09-22 )</summary>
+
+## <a href= "https://github.com/nicednjsdud">정원영</a>
+
+### 목차
+
+</details>
+
 ## 할것
 
 - 공부 방법 update
