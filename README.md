@@ -424,6 +424,18 @@
 
 ## <a href= "https://github.com/nicednjsdud">정원영</a>
 
+1. 코테 공부 (알고리즘)
+2. 코틀린 공부
+   - 카프카 연결 (Spring Boot)
+
+### 1) 코테 공부
+
+-
+
+### 2) 코틀린 공부
+
+<a href="https://nicednjsdud.github.io/kotlin/Kotlin-Kotlin-Kotlin-Boot-Kafka-Integration/">(Kotlin-Kafka) Kotlin Spring Boot Kafka 통합 초기 세팅</a>
+
 ### 목차
 
 </details>
